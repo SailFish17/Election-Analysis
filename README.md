@@ -2,7 +2,8 @@
 
 ## Purpose
 
-A Colorado Board of Elections is worried that it will be sued by a candidate over the election results.   They have asked for a bullet proof code to audit the recent elections.  Public tension is rampent and the stakes are huge in the Mile High state.
+A Colorado Board of Elections is worried that it will be sued by a candidate over the election results.   They have asked for a bullet proof code to audit the recent elections.  Social media has stoked public tensions and the stakes are huge in the Mile High state.
+
 The code should answer the following questions:
 
  1. Calculate the total number of votes cast.
