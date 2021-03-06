@@ -61,10 +61,13 @@ The county with the highest turnout:
 ## Summary and Analysis
 
 Election-Audit Summary
-•	The following script PyPoll_Challenge.py can be modified for use for any election.  
 
-This can be done in two simple ways;  with the input() function and def my_function().   Changes made to the beginning of the script where the string file_1 = input ('file_1: ') and file_2 = input ('file_2: ') can be replaced by a with statement that has a syntax with open(file_1)as election_data and with open(file_2, "w") as txt_file, where file_1 is the file_to_load and file_2 is file_save.   The input function will generate an output in the terminal asking what is the location for file_to_load and file_to_save. 
+Of Course! The PyPoll_Challenge.py script can be modified for use in any election.  Large or small, from school boards to the big one!  Please see our special offer after our assurances for code fungability.
 
-The def my_function () can also be used generate other election data while using the same script. For example (def election_test(file_1, file_2):), change the (with) statements as we did with the input() function, can be used at the beginnging with the rest of the script below and at the end election_test("folder/election data", "folder/election data txt file").
+This code is amazing and can be modified in two simple ways;  with the input() function and def my_function().   Changes made to the beginning of the script where the string file_1 = input ('file_1: ') and file_2 = input ('file_2: ') can be replaced by a with statement that has a syntax with open(file_1)as election_data and with open(file_2, "w") as txt_file, where file_1 is the file_to_load and file_2 is file_save.   The input function will generate an output in the terminal asking what is the location for file_to_load and file_to_save. 
 
-The use of this code for other elections can be had on a SaaS basis with low market rates and a menu of ad hoc charges that should slowly siphon Opex budgets for years to come.  This income will of course be used to further refine the hardware, software and the code itself to delver complete and trustworthy election results for years to come.
+The def my_function () can also be used generate other election data while using the same script. For example (def election_test(file_1, file_2):), change the (with) statements as was done with the input() function, can be used at the beginnging with the rest of the script below and at the end election_test("folder/election data", "folder/election data txt file").
+
+IF you understand any of that, this code may not be for you.   BUT if you like the output and the nice green color for some of the background of this readme file, this code IS YOUR ANSWER to life's little election problems!   
+
+The use of this code for other elections can be had on a SaaS basis with low, low market rates and a menu of ad hoc charges that should slowly siphon Opex budgets for the foreseeable future.  This income will of course be used to further refine the hardware, software and the code itself to delver complete and trustworthy election results for years to come.  Additional expenditures on research that involve long durations by the codewriter studying in the Carribean should be of no concern to any user of this code. Please send your ssn# and bank account routing codes to the owner of this git hub to begin the transaction.  This offer void where prohibited by law.   
